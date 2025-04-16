@@ -1,2 +1,9 @@
-# Password_Generator-Pascal-
-This Project is a Cool Password Generator With a Few Features 
+# Password_Generator-Pascal- 
+
+- A free open Source Password and Pin Generator
+
+- This App can Generate you any lenght Password and a 5 didget Pin
+
+- Coding language used: Pascal
+
+# WARNING
