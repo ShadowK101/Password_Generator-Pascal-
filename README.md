@@ -27,4 +27,4 @@ The reason it is Being Identified as a false positive in Anti Virus Software is 
 
 # Note
 
-- If the exe doesnt work Download the .Pas, .dpr, .dprj and the .dfm Files and compile the Code Yourself
+- If the exe doesnt work Download the .Pas, .dpr, .dproj and the .dfm Files and compile the Code Yourself
