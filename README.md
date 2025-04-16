@@ -1,5 +1,7 @@
 # Password_Generator-Pascal- 
 
+- Can Be Compiled manually.
+
 - A free open Source Password and Pin Generator
 
 - This App can Generate you any lenght Password and a 5 didget Pin
@@ -22,3 +24,7 @@ The reason it is Being Identified as a false positive in Anti Virus Software is 
 - Click on that Icon and Select where you want it to Downlaod. 
 
 - After the Download is Complete Install it.
+
+# Note
+
+- If the exe doesnt work Download the .Pas, .dpr, .dprj and the .dfm Files and compile the Code Yourself
